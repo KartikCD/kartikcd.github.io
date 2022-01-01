@@ -1,0 +1,25 @@
+:root {
+  /* ------------------- Colors ------------------- */
+
+  --color-dark-blue: #153956;
+  --color-light-blue: #8ca7ce;
+  --color-base-white: #ffffff;
+  --color-base-black: #000000;
+  --color-light-orange: #f2a278;
+  --color-dark-orange: #f07b61;
+  --color-super-dark-blue: #002e4d;
+  --color-super-light-blue: #b9d1f2;
+
+  /* ------------------- Theme Colors ------------------- */
+  --color-background: var(--color-dark-blue);
+  --color-icon-tint: var(--color-dark-orange);
+  --color-mene: var(--color-light-blue);
+  --color-title: var(--color-light-orange);
+  --color-title-description: var(--color-base-white);
+  --color-button-background: var(--color-dark-orange);
+  --color-button-shadow: var(--color-super-dark-blue);
+  --color-button-text: var(--color-dark-blue);
+  --color-subheading: var(--color-base-white);
+  --color-subheading-description: var(--color-super-light-blue);
+  --color-textfield-background: var(--color-super-dark-blue);
+}
